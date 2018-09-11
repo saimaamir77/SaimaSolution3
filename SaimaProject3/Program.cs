@@ -10,6 +10,7 @@ namespace SaimaProject3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("start coding now ");
         }
     }
 }
