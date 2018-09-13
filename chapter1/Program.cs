@@ -10,6 +10,13 @@ namespace chapter1
     {
         static void Main(string[] args)
         {
+            int x = 2;
+            int y = 23;
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.ReadLine();
+
+
         }
     }
 }
